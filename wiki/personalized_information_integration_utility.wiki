@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary Detailed Information about the utility and technique.
 
 = Personalized Information Integration Utility =
 *by Jegan Lingam and Arvind Venkataraman*
